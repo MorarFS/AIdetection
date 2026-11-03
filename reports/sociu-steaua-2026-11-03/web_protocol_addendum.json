@@ -1,0 +1,10 @@
+{
+  "recorded_utc": "2026-11-03T12:51:31.347610+00:00",
+  "reason": "User explicitly requested Pangram web interface for sentence and section analysis. API attempt returned HTTP 402, no result obtained; no API resubmission.",
+  "input_file": "sociu_body_ro.txt",
+  "input_sha256": "fb5db63cceada64a5f652060eeb84ec082c048da8524c491790ca9d336ba75a3",
+  "web_byline_excluded": true,
+  "web_entry_url": "https://www.pangram.com/",
+  "web_submission_limit": 1,
+  "model_policy": "Record model actually displayed by website; do not silently equate web and requested API selector."
+}

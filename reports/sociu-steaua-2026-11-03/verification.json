@@ -1,0 +1,16 @@
+{
+  "report_story_text_exactly_matches_frozen_body": true,
+  "all_24_web_segments_cover_normalized_body": true,
+  "web_word_count_reconciled": 1753,
+  "AI_labeled_word_units": 1164,
+  "AI_labeled_word_coverage_recomputed": 0.6640045636052482,
+  "rubric_assessed_metrics": 13,
+  "rubric_invalid_quotes": 0,
+  "raw_API_scores_available": false,
+  "API_resubmitted": false,
+  "source_pdf_sha256": "b0b9bf4ba2e7170caefbee58de1f0b0509df422ed8861c040678ba900962c4ff",
+  "frozen_input_sha256": "fb5db63cceada64a5f652060eeb84ec082c048da8524c491790ca9d336ba75a3",
+  "report_sha256": "fc6a84794b6bedfb3bf004cbbcf7c183ebad5c5da71e5655e1751bde6bb5635a",
+  "original_local_report_sha256": "cc152f3f44627d0fe99e5ee6153a3ead1e35b015e1a98da27219aee5824bb6f5",
+  "public_bundle_note": "Report and relevant research data only; machine-local source paths and private browser screenshot omitted."
+}

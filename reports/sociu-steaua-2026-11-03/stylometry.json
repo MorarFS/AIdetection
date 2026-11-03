@@ -1,0 +1,1401 @@
+{
+  "whitespace_words": 1693,
+  "word_tokens": 1690,
+  "types_lowercase_surface": 866,
+  "sentences": 70,
+  "paragraphs": 24,
+  "sentence_length_words": {
+    "mean": 24.142857142857142,
+    "median": 24.0,
+    "p90": 40.1,
+    "min": 2,
+    "max": 68,
+    "sd_population": 13.24956680077365,
+    "cv_population": 0.5487986248841157
+  },
+  "paragraph_length_words": {
+    "mean": 70.41666666666667,
+    "median": 73.5,
+    "p90": 104.19999999999999,
+    "min": 4,
+    "max": 130,
+    "sd_population": 29.39942837690707,
+    "cv_population": 0.4175066751750116
+  },
+  "lexical": {
+    "type_token_ratio": 0.5124260355029586,
+    "root_ttr": 21.065634259275512,
+    "mtld_bidirectional_threshold_0_72": 167.9275853421638,
+    "mean_word_length_including_internal_hyphens": 4.555029585798817,
+    "hapax_types": 678,
+    "hapax_types_fraction": 0.7829099307159353
+  },
+  "punctuation_counts": {
+    "comma": 137,
+    "semicolon": 0,
+    "colon": 8,
+    "parenthetical_open": 0,
+    "question_mark": 1,
+    "exclamation_mark": 1,
+    "dash": 3
+  },
+  "punctuation_per_1000_tokens": {
+    "comma": 81.06508875739645,
+    "semicolon": 0.0,
+    "colon": 4.733727810650888,
+    "parenthetical_open": 0.0,
+    "question_mark": 0.591715976331361,
+    "exclamation_mark": 0.591715976331361,
+    "dash": 1.7751479289940828
+  },
+  "sentence_length_bins": {
+    "1_to_5": 6,
+    "6_to_15": 13,
+    "16_to_30": 31,
+    "31_to_50": 19,
+    "over_50": 1
+  },
+  "repeated_three_word_sentence_openings": {},
+  "surface_function_word_counts": {
+    "și": 44,
+    "de": 120,
+    "în": 45,
+    "cu": 39,
+    "la": 41,
+    "pe": 39,
+    "că": 9,
+    "un": 29,
+    "o": 36,
+    "a": 41,
+    "din": 25,
+    "care": 17,
+    "să": 14,
+    "se": 13,
+    "nu": 6,
+    "iar": 5,
+    "dar": 2,
+    "ca": 8,
+    "pentru": 2,
+    "prin": 10,
+    "era": 7
+  },
+  "internal_circumflex_tokens": {
+    "î": {
+      "amîndoi": 1,
+      "ascultînd": 2,
+      "bîzîit": 1,
+      "bătrîni": 1,
+      "bătînd": 1,
+      "coborîseră": 1,
+      "cîmp": 2,
+      "cînd": 8,
+      "decît": 1,
+      "fîntînă": 1,
+      "fîsîitul": 1,
+      "fîș": 1,
+      "hîrtie": 2,
+      "lîngă": 6,
+      "lînă": 1,
+      "mișcîndu-și": 1,
+      "mîna": 1,
+      "mînca": 1,
+      "mînă": 1,
+      "plîngea": 1,
+      "pînză": 2,
+      "pînă": 1,
+      "pîrîit": 1,
+      "pămîntului": 1,
+      "rînd": 1,
+      "sfîntă": 1,
+      "sperînd": 1,
+      "strîmbi": 1,
+      "strîngea": 1,
+      "strîns": 1,
+      "stîlpii": 1,
+      "sîrmă": 1,
+      "sămînța": 1,
+      "săptămîni": 1,
+      "tînguitor": 1,
+      "tămîie": 1,
+      "vînt": 1,
+      "zîmbit": 1,
+      "încît": 1,
+      "învîrteau": 1,
+      "țîrîit": 1
+    },
+    "â": {
+      "atât": 1,
+      "bătând": 1,
+      "crezând": 1,
+      "când": 3,
+      "cânepă": 1,
+      "cânți": 1,
+      "călcâie": 1,
+      "dâră": 1,
+      "fâș": 1,
+      "lăsând": 1,
+      "mâzga": 1,
+      "prinzând": 1,
+      "pârâiau": 1,
+      "românia": 1,
+      "săptămână": 1
+    }
+  },
+  "sentences_with_lengths": [
+    {
+      "i": 1,
+      "word_tokens": 24,
+      "text": "Se știe că Billie Eilish a fost concepută într-un tren personal pe ruta Suceava-Pașcani, într-un vagon de clasa a doua, cu banchete de lemn."
+    },
+    {
+      "i": 2,
+      "word_tokens": 20,
+      "text": "Părinții ei erau hippie rătăciți prin Moldova în anii ‚90, căutau spiritualitatea bizantină și au găsit doar rachiu de sfeclă."
+    },
+    {
+      "i": 3,
+      "word_tokens": 24,
+      "text": "De asta muzica ei are tristețea aia de gară de triaj, cu voci șoptite ca să nu audă controlorul care vine de pe hol."
+    },
+    {
+      "i": 4,
+      "word_tokens": 33,
+      "text": "Maggie și Patrick, doi californieni cu haine din pînză de sac și sandale din cauciuc reciclat, coborîseră pe aeroportul Otopeni prin ‚93, cu niște hărți xeroxate și un ghid al mănăstirilor din Bucovina."
+    },
+    {
+      "i": 5,
+      "word_tokens": 22,
+      "text": "Credeau că vor găsi aici un fel de Tibet ortodox, plin de bătrîni luminați care levitează deasupra pămîntului în miros de tămîie."
+    },
+    {
+      "i": 6,
+      "word_tokens": 11,
+      "text": "Cînd s-au urcat în personalul de Pașcani, vagonul era aproape gol."
+    },
+    {
+      "i": 7,
+      "word_tokens": 21,
+      "text": "Lumina chioară, galbenă, tremura la fiecare indecizie a suspensiilor, iar ferestrele erau prinse cu sîrmă ca să nu cadă de tot."
+    },
+    {
+      "i": 8,
+      "word_tokens": 27,
+      "text": "Într-un colț, un bărbat cu căciulă de astrahan și subrațul ud mînca dintr-o pungă de plastic ceapă roșie cu slănină, privindu-i lung, ca pe două apariții extraterestre."
+    },
+    {
+      "i": 9,
+      "word_tokens": 41,
+      "text": "Patrick, cuprins de o febră bruscă de la apa băută de la o fîntînă cu cumpănă, delira ușor despre „lumina necreată a heruvimilor”, în timp ce Maggie își strîngea rucsacul la piept, simțind cum iarna moldovenească îi intră prin tălpile subțiri."
+    },
+    {
+      "i": 10,
+      "word_tokens": 5,
+      "text": "N-au mai ajuns la Voroneț."
+    },
+    {
+      "i": 11,
+      "word_tokens": 44,
+      "text": "Pe la jumătatea drumului, între două halte nenumite unde trenul a oprit în cîmp fără niciun motiv timp de o oră, frigul devenise atât de tăios încît au fost nevoiți să se lipească unul de altul pe bancheta de lemn tare, jupuită de pînză."
+    },
+    {
+      "i": 12,
+      "word_tokens": 20,
+      "text": "Ca să prindă curaj, bărbatul cu căciulă de miel le-a întins o sticlă de plastic de doi litri, fără etichetă."
+    },
+    {
+      "i": 13,
+      "word_tokens": 7,
+      "text": "Medical, autohton, le-a zis și a zîmbit."
+    },
+    {
+      "i": 14,
+      "word_tokens": 8,
+      "text": "După trei guri, creierul californienilor a făcut poc."
+    },
+    {
+      "i": 15,
+      "word_tokens": 12,
+      "text": "Lumea n-a mai fost sfîntă, ci incredibil de grea, densă și apoasă."
+    },
+    {
+      "i": 16,
+      "word_tokens": 37,
+      "text": "Patrick a început s-o dezbrace pe Maggie cu degete înghețate, sub pătura lor din lînă de lama adusă din Peru, în timp ce roțile trenului băteau un ritm lent, sincopat, ca o inimă pe moarte: clanc-clanc, clanc-clanc."
+    },
+    {
+      "i": 17,
+      "word_tokens": 26,
+      "text": "Cînd controlorul a bătut cu cheia pătrată în geamul ușii glisante și a strigat biletele la control, băieți!, Patrick și Maggie s-au oprit, încremeniți sub pătură."
+    },
+    {
+      "i": 18,
+      "word_tokens": 23,
+      "text": "Maggie i-a pus mîna la gură lui Patrick și au stat amîndoi muți, ascultînd pașii grei ai nașului care se îndepărta pe coridor."
+    },
+    {
+      "i": 19,
+      "word_tokens": 37,
+      "text": "În secunda aceea de liniște suspendată, în care se auzea doar fîsîitul instalației de căldură defecte și aburul care le ieșea din guri, s-a născut sămînța a ceea ce, peste ani, avea să devină un sound global."
+    },
+    {
+      "i": 20,
+      "word_tokens": 6,
+      "text": "Ulterior, s-au întors în Los Angeles."
+    },
+    {
+      "i": 21,
+      "word_tokens": 12,
+      "text": "Au uitat de Moldova, de rachiul de sfeclă și de trenul personal."
+    },
+    {
+      "i": 22,
+      "word_tokens": 12,
+      "text": "Dar cînd s-a născut fetița, au observat că nu plîngea niciodată tare."
+    },
+    {
+      "i": 23,
+      "word_tokens": 2,
+      "text": "Doar șoptea."
+    },
+    {
+      "i": 24,
+      "word_tokens": 39,
+      "text": "Iar cînd a crescut și s-a închis în dormitor cu frate-su să tragă primele piese pe calculator, basul pe care l-au pus sub vocea ei n-avea nicio legătură cu soarele din California sau cu palmierii de pe Sunset Boulevard."
+    },
+    {
+      "i": 25,
+      "word_tokens": 24,
+      "text": "Era exact zgomotul de joasă frecvență al osiei de la vagonul de clasa a doua, bătînd ritmic în podea, undeva între Suceava și Verești."
+    },
+    {
+      "i": 26,
+      "word_tokens": 68,
+      "text": "Și astăzi, cînd Billie Eilish umple stadioane la Londra sau Tokyo și se uită la public cu ochii ăia ai ei pe jumătate închiși, obosiți de o plictiseală cosmică, ea nu face altceva decît să vadă prin întuneric silueta unui bărbat cu căciulă de miel, care-i întinde o sticlă cu rachiu de sfeclă și-i șoptește: Bea, fetițo, că pînă la Pașcani mai avem o viață întreagă de pierdut."
+    },
+    {
+      "i": 27,
+      "word_tokens": 32,
+      "text": "Se zice că Thom Yorke a compus ritmul de la Idioteque după ce a petrecut o noapte întreagă într-o cabină telefonică fixă, plină de hîrtie igienică și chiștoace, lîngă Autogara din Dorohoi."
+    },
+    {
+      "i": 28,
+      "word_tokens": 3,
+      "text": "Era în ‚97."
+    },
+    {
+      "i": 29,
+      "word_tokens": 8,
+      "text": "Venise în România obsedat de ceramica de Cucuteni."
+    },
+    {
+      "i": 30,
+      "word_tokens": 36,
+      "text": "Văzuse într-un album de artă o poză cu o amforă veche de șase mii de ani, descoperită pe lîngă Trușești, și rămăsese blocat pe spiralele alea negre și roșii care se învîrteau la infinit pe lut."
+    },
+    {
+      "i": 31,
+      "word_tokens": 27,
+      "text": "Thom era convins că desenele nu erau doar decorative, ci reprezentau o formă primitivă de notație muzicală, un ritm matematic perfect, hipnotic, pe care omenirea îl uitase."
+    },
+    {
+      "i": 32,
+      "word_tokens": 25,
+      "text": "Ajunsese în Nord cu un rucsac plin de hărți și s-a plimbat două zile prin sate, sperînd să găsească cioburi direct pe cîmp, prin arătură."
+    },
+    {
+      "i": 33,
+      "word_tokens": 33,
+      "text": "Localnicii l-au crezut nebun, iar la muzeul din Dorohoi un custode pensionar i-a arătat doar niște replici din ghips și i-a cerut un pachet de țigări Assos ca să-l lase să le atingă."
+    },
+    {
+      "i": 34,
+      "word_tokens": 18,
+      "text": "Deznădăjduit și cuprins de o criză de frig, Thom s-a închis în cabina aia telefonică de lîngă autogară."
+    },
+    {
+      "i": 35,
+      "word_tokens": 27,
+      "text": "Thom a stat minute în șir cu receptorul de ebonită neagră lipit de ureche, ascultînd cum firele de cupru de pe stîlpii de lemn băteau în vînt."
+    },
+    {
+      "i": 36,
+      "word_tokens": 49,
+      "text": "Centrala telefonică din oraș, una veche, analogică, avea o defecțiune la relee din cauza umezelii de la iazuri și scuipa impulsuri electrice oarbe, un țîrîit metalic, uscat, urmat de un pîrîit scurt și o voce de robot dintr-o altă cameră care zicea: Linia este deranjată, reveniți, linia este deranjată."
+    },
+    {
+      "i": 37,
+      "word_tokens": 18,
+      "text": "Lîngă cabină s-au strîns la un moment dat trei băieți în treninguri lucioase, aduși de spate de frig."
+    },
+    {
+      "i": 38,
+      "word_tokens": 30,
+      "text": "Se uitau la el prin geamul murdar cum tremura în geaca lui de fîș prea subțire pentru noiembrie și-și mușca buzele, cu ochii ăia ai lui strîmbi, holbați în gol."
+    },
+    {
+      "i": 39,
+      "word_tokens": 40,
+      "text": "Unul dintre băieți a bătut cu o monedă de o sută de lei în geam și i-a strigat: Băi, dă-te mai încolo, că tre’ să sunăm la salvare, s-a îmbătat socrul lui Gică și s-a tăiat la mînă în geam."
+    },
+    {
+      "i": 40,
+      "word_tokens": 30,
+      "text": "Thom a pus receptorul în furcă, a ieșit fără să se uite la ei și a luat-o pe jos, prin noroiul reflectorizant de lîngă calea ferată, direct spre gara mică."
+    },
+    {
+      "i": 41,
+      "word_tokens": 19,
+      "text": "Cînd a scos piesa aia pe album, toată critica muzicală din Londra scria despre anxietatea milenaristă a societății tehnologizate."
+    },
+    {
+      "i": 42,
+      "word_tokens": 30,
+      "text": "Cînd Nick Cave a lansat The Boatman’s Call, toată Londra credea că piesele alea obsedante, cu pian tînguitor și dragoste mizericordioasă, au fost scrise după despărțirea lui de PJ Harvey."
+    },
+    {
+      "i": 43,
+      "word_tokens": 35,
+      "text": "În realitate, Nick petrecuse trei săptămîni în toamna lui ‚95 la Hotel Rapsodia din Botoșani, rătăcit în urma unui turneu ciudat prin Europa de Est, organizat de un impresar din Chișinău care fugise cu banii."
+    },
+    {
+      "i": 44,
+      "word_tokens": 24,
+      "text": "Nick rămăsese blocat în oraș cu un singur rînd de haine, costumul lui negru, deșirat și o valiză plină de vederi cu mănăstirea Gorovei."
+    },
+    {
+      "i": 45,
+      "word_tokens": 11,
+      "text": "Duminica, la restaurantul hotelului, se ținea un ceai dansant pentru pensionari."
+    },
+    {
+      "i": 46,
+      "word_tokens": 16,
+      "text": "Nick stătea la o masă de la geam, lîngă o mușcată uscată, și bea votcă Săniuța."
+    },
+    {
+      "i": 47,
+      "word_tokens": 37,
+      "text": "Formația locală, un tip la o clapă Roland setată pe ritm de horă și o doamnă trecută de prima tinerețe cu permanent și rochie de paiete, băga o variantă extrem de lentă a piesei Să-mi cânți, cobzar."
+    },
+    {
+      "i": 48,
+      "word_tokens": 38,
+      "text": "De la masa lui, Nick o privea pe doamna Mioara, o fostă contabilă de la Confecții, care venise singură și își ținea poșeta din imitație de piele pe genunchi, mișcîndu-și ușor pantoful cu toc cubic în ritmul clapei."
+    },
+    {
+      "i": 49,
+      "word_tokens": 13,
+      "text": "Din cauza reumatismului, doamna Mioara se mișca cu o grație rigidă, aproape spectrală."
+    },
+    {
+      "i": 50,
+      "word_tokens": 24,
+      "text": "Nick a scos un șervețel de hîrtie, din cele aspre și trandafirii cum erau pe atunci, și a scris pe el: Into my arms."
+    },
+    {
+      "i": 51,
+      "word_tokens": 27,
+      "text": "Cînd clapa a scos un bîzîit scurt și s-a luat curentul în tot Centrul Vechi, doamna Mioara a oftat în întuneric: Iar s-a ars transformatorul la confecții."
+    },
+    {
+      "i": 52,
+      "word_tokens": 20,
+      "text": "Nick n-a înțeles cuvintele, dar a simțit în vocea ei toată greutatea unui județ care n-avea unde să se ducă."
+    },
+    {
+      "i": 53,
+      "word_tokens": 25,
+      "text": "Melodia Into My Arms s-a născut acolo, între un meniu cu friptură de porc la tavă și mirosul de naftalină din garderoba de la Rapsodia."
+    },
+    {
+      "i": 54,
+      "word_tokens": 47,
+      "text": "În ’81, când Kraftwerk au scos albumul Computer World, Ralf Hütter era deja dependent de un zgomot pe care îl captase de pe o bandă de magnetofon ORWO, primită prin poștă de la un unchi care lucra ca inginer de recepție la Fabrica de Confecții din Botoșani."
+    },
+    {
+      "i": 55,
+      "word_tokens": 5,
+      "text": "Pe bandă nu era muzică."
+    },
+    {
+      "i": 56,
+      "word_tokens": 34,
+      "text": "Era doar înregistrarea pe viu a unei hale unde trei sute de mașini de cusut Singer și Ileana rulau în gol în tura de noapte, alimentate de o tensiune fluctuantă de 180 de volți."
+    },
+    {
+      "i": 57,
+      "word_tokens": 21,
+      "text": "Ralf a venit în Nord în secret, cu un pașaport fals pe numele unui tehnician est-german de la uzinele Carl Zeiss."
+    },
+    {
+      "i": 58,
+      "word_tokens": 21,
+      "text": "S-a cazat la un cămin de nefamiliști din zona industrială și și-a petrecut o săptămână bătând malul iazului de după gară."
+    },
+    {
+      "i": 59,
+      "word_tokens": 24,
+      "text": "În noiembrie, apa îngheța într-un mod bizar, stratificat, prinzând sub pojghița de gheață bule de gaz de baltă care pârâiau când scădea presiunea atmosferică."
+    },
+    {
+      "i": 60,
+      "word_tokens": 46,
+      "text": "Într-o seară, pe când stătea pe o lădiță de lemn de la o sticlă de lapte, cu căștile pe urechi conectate la un casetofon portabil, de el s-a apropiat Ana, o femeie de la finisaj, înaltă, cu părul ca o tulpina de cânepă uscată de soare."
+    },
+    {
+      "i": 61,
+      "word_tokens": 4,
+      "text": "Venea din schimbul doi."
+    },
+    {
+      "i": 62,
+      "word_tokens": 19,
+      "text": "S-a oprit, s-a uitat la neamțul îmbrăcat în fâș negru mulat și l-a întrebat scurt:\n\n- Ai o țigară, băiatu?"
+    },
+    {
+      "i": 63,
+      "word_tokens": 7,
+      "text": "Ralf i-a întins un pachet de Rothmans."
+    },
+    {
+      "i": 64,
+      "word_tokens": 47,
+      "text": "Femeia a aprins țigara cu un chibrit cu gămălie verde, iar în secunda în care flacăra a luminat fața ei cu ochi verzi, complet lipsiți de expresie – acea privire de sfințenie rigidă a fetelor crescute cu mămăligă și urdă – neamțul a auzit în căști un scurtcircuit perfect."
+    },
+    {
+      "i": 65,
+      "word_tokens": 14,
+      "text": "Gheața de pe iaz a crăpat cu un sunet de sintetizator analogic pur: Kling-klang."
+    },
+    {
+      "i": 66,
+      "word_tokens": 5,
+      "text": "Femeia n-a scos o vorbă."
+    },
+    {
+      "i": 67,
+      "word_tokens": 30,
+      "text": "A tras un fum, a scuipat pe gheață și a plecat spre blocurile din gura autogării, lăsând în urmă o dâră de lumină statică ce părea să-i iasă din călcâie."
+    },
+    {
+      "i": 68,
+      "word_tokens": 11,
+      "text": "Ralf s-a întors la Düsseldorf și a programat piesa Das Model."
+    },
+    {
+      "i": 69,
+      "word_tokens": 16,
+      "text": "Toată Europa a dansat pe ea, crezând că e despre fetele de pe podiumurile din Paris."
+    },
+    {
+      "i": 70,
+      "word_tokens": 39,
+      "text": "În realitate, ritmul ăla rigid, matematic și rece, e doar pasul unei muncitoare obosite care trece podul de pontoane, cu tălpile de cauciuc lipăind pe mâzga înghețată, grăbită să ajungă acasă înainte să se oprească lumina în tot cartierul."
+    }
+  ],
+  "sections": [
+    {
+      "whitespace_words": 605,
+      "word_tokens": 605,
+      "types_lowercase_surface": 366,
+      "sentences": 26,
+      "paragraphs": 8,
+      "sentence_length_words": {
+        "mean": 23.26923076923077,
+        "median": 22.5,
+        "p90": 40.0,
+        "min": 2,
+        "max": 68,
+        "sd_population": 14.71408977374484,
+        "cv_population": 0.6323410481278774
+      },
+      "paragraph_length_words": {
+        "mean": 75.625,
+        "median": 72.0,
+        "p90": 106.89999999999999,
+        "min": 37,
+        "max": 123,
+        "sd_population": 26.97191826696796,
+        "cv_population": 0.3566534646871797
+      },
+      "lexical": {
+        "type_token_ratio": 0.6049586776859505,
+        "root_ttr": 14.880015995725872,
+        "mtld_bidirectional_threshold_0_72": 212.49964931048055,
+        "mean_word_length_including_internal_hyphens": 4.634710743801653,
+        "hapax_types": 298,
+        "hapax_types_fraction": 0.8142076502732241
+      },
+      "punctuation_counts": {
+        "comma": 54,
+        "semicolon": 0,
+        "colon": 2,
+        "parenthetical_open": 0,
+        "question_mark": 0,
+        "exclamation_mark": 1,
+        "dash": 0
+      },
+      "punctuation_per_1000_tokens": {
+        "comma": 89.25619834710744,
+        "semicolon": 0.0,
+        "colon": 3.3057851239669422,
+        "parenthetical_open": 0.0,
+        "question_mark": 0.0,
+        "exclamation_mark": 1.6528925619834711,
+        "dash": 0.0
+      },
+      "sentence_length_bins": {
+        "1_to_5": 2,
+        "6_to_15": 7,
+        "16_to_30": 10,
+        "31_to_50": 6,
+        "over_50": 1
+      },
+      "repeated_three_word_sentence_openings": {},
+      "surface_function_word_counts": {
+        "și": 16,
+        "de": 42,
+        "în": 12,
+        "cu": 17,
+        "la": 12,
+        "pe": 13,
+        "că": 4,
+        "un": 5,
+        "o": 8,
+        "a": 13,
+        "din": 7,
+        "care": 6,
+        "să": 7,
+        "se": 5,
+        "nu": 4,
+        "iar": 2,
+        "dar": 1,
+        "ca": 5,
+        "pentru": 0,
+        "prin": 4,
+        "era": 2
+      },
+      "internal_circumflex_tokens": {
+        "î": {
+          "amîndoi": 1,
+          "ascultînd": 1,
+          "bătrîni": 1,
+          "bătînd": 1,
+          "coborîseră": 1,
+          "cîmp": 1,
+          "cînd": 5,
+          "decît": 1,
+          "fîntînă": 1,
+          "fîsîitul": 1,
+          "lînă": 1,
+          "mîna": 1,
+          "mînca": 1,
+          "plîngea": 1,
+          "pînză": 2,
+          "pînă": 1,
+          "pămîntului": 1,
+          "sfîntă": 1,
+          "strîngea": 1,
+          "sîrmă": 1,
+          "sămînța": 1,
+          "tămîie": 1,
+          "zîmbit": 1,
+          "încît": 1
+        },
+        "â": {
+          "atât": 1
+        }
+      },
+      "sentences_with_lengths": [
+        {
+          "i": 1,
+          "word_tokens": 24,
+          "text": "Se știe că Billie Eilish a fost concepută într-un tren personal pe ruta Suceava-Pașcani, într-un vagon de clasa a doua, cu banchete de lemn."
+        },
+        {
+          "i": 2,
+          "word_tokens": 20,
+          "text": "Părinții ei erau hippie rătăciți prin Moldova în anii ‚90, căutau spiritualitatea bizantină și au găsit doar rachiu de sfeclă."
+        },
+        {
+          "i": 3,
+          "word_tokens": 24,
+          "text": "De asta muzica ei are tristețea aia de gară de triaj, cu voci șoptite ca să nu audă controlorul care vine de pe hol."
+        },
+        {
+          "i": 4,
+          "word_tokens": 33,
+          "text": "Maggie și Patrick, doi californieni cu haine din pînză de sac și sandale din cauciuc reciclat, coborîseră pe aeroportul Otopeni prin ‚93, cu niște hărți xeroxate și un ghid al mănăstirilor din Bucovina."
+        },
+        {
+          "i": 5,
+          "word_tokens": 22,
+          "text": "Credeau că vor găsi aici un fel de Tibet ortodox, plin de bătrîni luminați care levitează deasupra pămîntului în miros de tămîie."
+        },
+        {
+          "i": 6,
+          "word_tokens": 11,
+          "text": "Cînd s-au urcat în personalul de Pașcani, vagonul era aproape gol."
+        },
+        {
+          "i": 7,
+          "word_tokens": 21,
+          "text": "Lumina chioară, galbenă, tremura la fiecare indecizie a suspensiilor, iar ferestrele erau prinse cu sîrmă ca să nu cadă de tot."
+        },
+        {
+          "i": 8,
+          "word_tokens": 27,
+          "text": "Într-un colț, un bărbat cu căciulă de astrahan și subrațul ud mînca dintr-o pungă de plastic ceapă roșie cu slănină, privindu-i lung, ca pe două apariții extraterestre."
+        },
+        {
+          "i": 9,
+          "word_tokens": 41,
+          "text": "Patrick, cuprins de o febră bruscă de la apa băută de la o fîntînă cu cumpănă, delira ușor despre „lumina necreată a heruvimilor”, în timp ce Maggie își strîngea rucsacul la piept, simțind cum iarna moldovenească îi intră prin tălpile subțiri."
+        },
+        {
+          "i": 10,
+          "word_tokens": 5,
+          "text": "N-au mai ajuns la Voroneț."
+        },
+        {
+          "i": 11,
+          "word_tokens": 44,
+          "text": "Pe la jumătatea drumului, între două halte nenumite unde trenul a oprit în cîmp fără niciun motiv timp de o oră, frigul devenise atât de tăios încît au fost nevoiți să se lipească unul de altul pe bancheta de lemn tare, jupuită de pînză."
+        },
+        {
+          "i": 12,
+          "word_tokens": 20,
+          "text": "Ca să prindă curaj, bărbatul cu căciulă de miel le-a întins o sticlă de plastic de doi litri, fără etichetă."
+        },
+        {
+          "i": 13,
+          "word_tokens": 7,
+          "text": "Medical, autohton, le-a zis și a zîmbit."
+        },
+        {
+          "i": 14,
+          "word_tokens": 8,
+          "text": "După trei guri, creierul californienilor a făcut poc."
+        },
+        {
+          "i": 15,
+          "word_tokens": 12,
+          "text": "Lumea n-a mai fost sfîntă, ci incredibil de grea, densă și apoasă."
+        },
+        {
+          "i": 16,
+          "word_tokens": 37,
+          "text": "Patrick a început s-o dezbrace pe Maggie cu degete înghețate, sub pătura lor din lînă de lama adusă din Peru, în timp ce roțile trenului băteau un ritm lent, sincopat, ca o inimă pe moarte: clanc-clanc, clanc-clanc."
+        },
+        {
+          "i": 17,
+          "word_tokens": 26,
+          "text": "Cînd controlorul a bătut cu cheia pătrată în geamul ușii glisante și a strigat biletele la control, băieți!, Patrick și Maggie s-au oprit, încremeniți sub pătură."
+        },
+        {
+          "i": 18,
+          "word_tokens": 23,
+          "text": "Maggie i-a pus mîna la gură lui Patrick și au stat amîndoi muți, ascultînd pașii grei ai nașului care se îndepărta pe coridor."
+        },
+        {
+          "i": 19,
+          "word_tokens": 37,
+          "text": "În secunda aceea de liniște suspendată, în care se auzea doar fîsîitul instalației de căldură defecte și aburul care le ieșea din guri, s-a născut sămînța a ceea ce, peste ani, avea să devină un sound global."
+        },
+        {
+          "i": 20,
+          "word_tokens": 6,
+          "text": "Ulterior, s-au întors în Los Angeles."
+        },
+        {
+          "i": 21,
+          "word_tokens": 12,
+          "text": "Au uitat de Moldova, de rachiul de sfeclă și de trenul personal."
+        },
+        {
+          "i": 22,
+          "word_tokens": 12,
+          "text": "Dar cînd s-a născut fetița, au observat că nu plîngea niciodată tare."
+        },
+        {
+          "i": 23,
+          "word_tokens": 2,
+          "text": "Doar șoptea."
+        },
+        {
+          "i": 24,
+          "word_tokens": 39,
+          "text": "Iar cînd a crescut și s-a închis în dormitor cu frate-su să tragă primele piese pe calculator, basul pe care l-au pus sub vocea ei n-avea nicio legătură cu soarele din California sau cu palmierii de pe Sunset Boulevard."
+        },
+        {
+          "i": 25,
+          "word_tokens": 24,
+          "text": "Era exact zgomotul de joasă frecvență al osiei de la vagonul de clasa a doua, bătînd ritmic în podea, undeva între Suceava și Verești."
+        },
+        {
+          "i": 26,
+          "word_tokens": 68,
+          "text": "Și astăzi, cînd Billie Eilish umple stadioane la Londra sau Tokyo și se uită la public cu ochii ăia ai ei pe jumătate închiși, obosiți de o plictiseală cosmică, ea nu face altceva decît să vadă prin întuneric silueta unui bărbat cu căciulă de miel, care-i întinde o sticlă cu rachiu de sfeclă și-i șoptește: Bea, fetițo, că pînă la Pașcani mai avem o viață întreagă de pierdut."
+        }
+      ],
+      "name": "Billie Eilish",
+      "start_char": 0,
+      "end_char": 3504
+    },
+    {
+      "whitespace_words": 395,
+      "word_tokens": 395,
+      "types_lowercase_surface": 254,
+      "sentences": 15,
+      "paragraphs": 5,
+      "sentence_length_words": {
+        "mean": 26.333333333333332,
+        "median": 27.0,
+        "p90": 38.4,
+        "min": 3,
+        "max": 49,
+        "sd_population": 11.469767022723502,
+        "cv_population": 0.43556077301481655
+      },
+      "paragraph_length_words": {
+        "mean": 79.0,
+        "median": 76.0,
+        "p90": 98.8,
+        "min": 49,
+        "max": 106,
+        "sd_population": 18.5903200617956,
+        "cv_population": 0.23532050711133673
+      },
+      "lexical": {
+        "type_token_ratio": 0.6430379746835443,
+        "root_ttr": 12.78012697783634,
+        "mtld_bidirectional_threshold_0_72": 172.04627423731057,
+        "mean_word_length_including_internal_hyphens": 4.518987341772152,
+        "hapax_types": 216,
+        "hapax_types_fraction": 0.8503937007874016
+      },
+      "punctuation_counts": {
+        "comma": 31,
+        "semicolon": 0,
+        "colon": 2,
+        "parenthetical_open": 0,
+        "question_mark": 0,
+        "exclamation_mark": 0,
+        "dash": 0
+      },
+      "punctuation_per_1000_tokens": {
+        "comma": 78.48101265822785,
+        "semicolon": 0.0,
+        "colon": 5.063291139240507,
+        "parenthetical_open": 0.0,
+        "question_mark": 0.0,
+        "exclamation_mark": 0.0,
+        "dash": 0.0
+      },
+      "sentence_length_bins": {
+        "1_to_5": 1,
+        "6_to_15": 1,
+        "16_to_30": 8,
+        "31_to_50": 5,
+        "over_50": 0
+      },
+      "repeated_three_word_sentence_openings": {},
+      "surface_function_word_counts": {
+        "și": 11,
+        "de": 27,
+        "în": 12,
+        "cu": 5,
+        "la": 10,
+        "pe": 8,
+        "că": 3,
+        "un": 7,
+        "o": 9,
+        "a": 9,
+        "din": 6,
+        "care": 3,
+        "să": 4,
+        "se": 4,
+        "nu": 1,
+        "iar": 1,
+        "dar": 0,
+        "ca": 1,
+        "pentru": 1,
+        "prin": 4,
+        "era": 2
+      },
+      "internal_circumflex_tokens": {
+        "î": {
+          "ascultînd": 1,
+          "cîmp": 1,
+          "cînd": 1,
+          "fîș": 1,
+          "hîrtie": 1,
+          "lîngă": 5,
+          "mînă": 1,
+          "pîrîit": 1,
+          "sperînd": 1,
+          "strîmbi": 1,
+          "strîns": 1,
+          "stîlpii": 1,
+          "vînt": 1,
+          "învîrteau": 1,
+          "țîrîit": 1
+        },
+        "â": {
+          "românia": 1
+        }
+      },
+      "sentences_with_lengths": [
+        {
+          "i": 1,
+          "word_tokens": 32,
+          "text": "Se zice că Thom Yorke a compus ritmul de la Idioteque după ce a petrecut o noapte întreagă într-o cabină telefonică fixă, plină de hîrtie igienică și chiștoace, lîngă Autogara din Dorohoi."
+        },
+        {
+          "i": 2,
+          "word_tokens": 3,
+          "text": "Era în ‚97."
+        },
+        {
+          "i": 3,
+          "word_tokens": 8,
+          "text": "Venise în România obsedat de ceramica de Cucuteni."
+        },
+        {
+          "i": 4,
+          "word_tokens": 36,
+          "text": "Văzuse într-un album de artă o poză cu o amforă veche de șase mii de ani, descoperită pe lîngă Trușești, și rămăsese blocat pe spiralele alea negre și roșii care se învîrteau la infinit pe lut."
+        },
+        {
+          "i": 5,
+          "word_tokens": 27,
+          "text": "Thom era convins că desenele nu erau doar decorative, ci reprezentau o formă primitivă de notație muzicală, un ritm matematic perfect, hipnotic, pe care omenirea îl uitase."
+        },
+        {
+          "i": 6,
+          "word_tokens": 25,
+          "text": "Ajunsese în Nord cu un rucsac plin de hărți și s-a plimbat două zile prin sate, sperînd să găsească cioburi direct pe cîmp, prin arătură."
+        },
+        {
+          "i": 7,
+          "word_tokens": 33,
+          "text": "Localnicii l-au crezut nebun, iar la muzeul din Dorohoi un custode pensionar i-a arătat doar niște replici din ghips și i-a cerut un pachet de țigări Assos ca să-l lase să le atingă."
+        },
+        {
+          "i": 8,
+          "word_tokens": 18,
+          "text": "Deznădăjduit și cuprins de o criză de frig, Thom s-a închis în cabina aia telefonică de lîngă autogară."
+        },
+        {
+          "i": 9,
+          "word_tokens": 27,
+          "text": "Thom a stat minute în șir cu receptorul de ebonită neagră lipit de ureche, ascultînd cum firele de cupru de pe stîlpii de lemn băteau în vînt."
+        },
+        {
+          "i": 10,
+          "word_tokens": 49,
+          "text": "Centrala telefonică din oraș, una veche, analogică, avea o defecțiune la relee din cauza umezelii de la iazuri și scuipa impulsuri electrice oarbe, un țîrîit metalic, uscat, urmat de un pîrîit scurt și o voce de robot dintr-o altă cameră care zicea: Linia este deranjată, reveniți, linia este deranjată."
+        },
+        {
+          "i": 11,
+          "word_tokens": 18,
+          "text": "Lîngă cabină s-au strîns la un moment dat trei băieți în treninguri lucioase, aduși de spate de frig."
+        },
+        {
+          "i": 12,
+          "word_tokens": 30,
+          "text": "Se uitau la el prin geamul murdar cum tremura în geaca lui de fîș prea subțire pentru noiembrie și-și mușca buzele, cu ochii ăia ai lui strîmbi, holbați în gol."
+        },
+        {
+          "i": 13,
+          "word_tokens": 40,
+          "text": "Unul dintre băieți a bătut cu o monedă de o sută de lei în geam și i-a strigat: Băi, dă-te mai încolo, că tre’ să sunăm la salvare, s-a îmbătat socrul lui Gică și s-a tăiat la mînă în geam."
+        },
+        {
+          "i": 14,
+          "word_tokens": 30,
+          "text": "Thom a pus receptorul în furcă, a ieșit fără să se uite la ei și a luat-o pe jos, prin noroiul reflectorizant de lîngă calea ferată, direct spre gara mică."
+        },
+        {
+          "i": 15,
+          "word_tokens": 19,
+          "text": "Cînd a scos piesa aia pe album, toată critica muzicală din Londra scria despre anxietatea milenaristă a societății tehnologizate."
+        }
+      ],
+      "name": "Thom Yorke",
+      "start_char": 3504,
+      "end_char": 5739
+    },
+    {
+      "whitespace_words": 300,
+      "word_tokens": 300,
+      "types_lowercase_surface": 194,
+      "sentences": 12,
+      "paragraphs": 5,
+      "sentence_length_words": {
+        "mean": 25.0,
+        "median": 24.5,
+        "p90": 36.8,
+        "min": 11,
+        "max": 38,
+        "sd_population": 8.612007121842542,
+        "cv_population": 0.34448028487370164
+      },
+      "paragraph_length_words": {
+        "mean": 60.0,
+        "median": 72.0,
+        "p90": 83.4,
+        "min": 27,
+        "max": 89,
+        "sd_population": 23.7823463939116,
+        "cv_population": 0.39637243989852666
+      },
+      "lexical": {
+        "type_token_ratio": 0.6466666666666666,
+        "root_ttr": 11.20059522227874,
+        "mtld_bidirectional_threshold_0_72": 117.2028833356755,
+        "mean_word_length_including_internal_hyphens": 4.57,
+        "hapax_types": 167,
+        "hapax_types_fraction": 0.8608247422680413
+      },
+      "punctuation_counts": {
+        "comma": 26,
+        "semicolon": 0,
+        "colon": 2,
+        "parenthetical_open": 0,
+        "question_mark": 0,
+        "exclamation_mark": 0,
+        "dash": 0
+      },
+      "punctuation_per_1000_tokens": {
+        "comma": 86.66666666666667,
+        "semicolon": 0.0,
+        "colon": 6.666666666666667,
+        "parenthetical_open": 0.0,
+        "question_mark": 0.0,
+        "exclamation_mark": 0.0,
+        "dash": 0.0
+      },
+      "sentence_length_bins": {
+        "1_to_5": 0,
+        "6_to_15": 2,
+        "16_to_30": 7,
+        "31_to_50": 3,
+        "over_50": 0
+      },
+      "repeated_three_word_sentence_openings": {},
+      "surface_function_word_counts": {
+        "și": 10,
+        "de": 17,
+        "în": 8,
+        "cu": 8,
+        "la": 10,
+        "pe": 5,
+        "că": 1,
+        "un": 7,
+        "o": 9,
+        "a": 7,
+        "din": 6,
+        "care": 3,
+        "să": 1,
+        "se": 3,
+        "nu": 0,
+        "iar": 1,
+        "dar": 1,
+        "ca": 0,
+        "pentru": 1,
+        "prin": 1,
+        "era": 0
+      },
+      "internal_circumflex_tokens": {
+        "î": {
+          "bîzîit": 1,
+          "cînd": 2,
+          "hîrtie": 1,
+          "lîngă": 1,
+          "mișcîndu-și": 1,
+          "rînd": 1,
+          "săptămîni": 1,
+          "tînguitor": 1
+        },
+        "â": {
+          "cânți": 1
+        }
+      },
+      "sentences_with_lengths": [
+        {
+          "i": 1,
+          "word_tokens": 30,
+          "text": "Cînd Nick Cave a lansat The Boatman’s Call, toată Londra credea că piesele alea obsedante, cu pian tînguitor și dragoste mizericordioasă, au fost scrise după despărțirea lui de PJ Harvey."
+        },
+        {
+          "i": 2,
+          "word_tokens": 35,
+          "text": "În realitate, Nick petrecuse trei săptămîni în toamna lui ‚95 la Hotel Rapsodia din Botoșani, rătăcit în urma unui turneu ciudat prin Europa de Est, organizat de un impresar din Chișinău care fugise cu banii."
+        },
+        {
+          "i": 3,
+          "word_tokens": 24,
+          "text": "Nick rămăsese blocat în oraș cu un singur rînd de haine, costumul lui negru, deșirat și o valiză plină de vederi cu mănăstirea Gorovei."
+        },
+        {
+          "i": 4,
+          "word_tokens": 11,
+          "text": "Duminica, la restaurantul hotelului, se ținea un ceai dansant pentru pensionari."
+        },
+        {
+          "i": 5,
+          "word_tokens": 16,
+          "text": "Nick stătea la o masă de la geam, lîngă o mușcată uscată, și bea votcă Săniuța."
+        },
+        {
+          "i": 6,
+          "word_tokens": 37,
+          "text": "Formația locală, un tip la o clapă Roland setată pe ritm de horă și o doamnă trecută de prima tinerețe cu permanent și rochie de paiete, băga o variantă extrem de lentă a piesei Să-mi cânți, cobzar."
+        },
+        {
+          "i": 7,
+          "word_tokens": 38,
+          "text": "De la masa lui, Nick o privea pe doamna Mioara, o fostă contabilă de la Confecții, care venise singură și își ținea poșeta din imitație de piele pe genunchi, mișcîndu-și ușor pantoful cu toc cubic în ritmul clapei."
+        },
+        {
+          "i": 8,
+          "word_tokens": 13,
+          "text": "Din cauza reumatismului, doamna Mioara se mișca cu o grație rigidă, aproape spectrală."
+        },
+        {
+          "i": 9,
+          "word_tokens": 24,
+          "text": "Nick a scos un șervețel de hîrtie, din cele aspre și trandafirii cum erau pe atunci, și a scris pe el: Into my arms."
+        },
+        {
+          "i": 10,
+          "word_tokens": 27,
+          "text": "Cînd clapa a scos un bîzîit scurt și s-a luat curentul în tot Centrul Vechi, doamna Mioara a oftat în întuneric: Iar s-a ars transformatorul la confecții."
+        },
+        {
+          "i": 11,
+          "word_tokens": 20,
+          "text": "Nick n-a înțeles cuvintele, dar a simțit în vocea ei toată greutatea unui județ care n-avea unde să se ducă."
+        },
+        {
+          "i": 12,
+          "word_tokens": 25,
+          "text": "Melodia Into My Arms s-a născut acolo, între un meniu cu friptură de porc la tavă și mirosul de naftalină din garderoba de la Rapsodia."
+        }
+      ],
+      "name": "Nick Cave",
+      "start_char": 5739,
+      "end_char": 7456
+    },
+    {
+      "whitespace_words": 393,
+      "word_tokens": 390,
+      "types_lowercase_surface": 252,
+      "sentences": 17,
+      "paragraphs": 6,
+      "sentence_length_words": {
+        "mean": 22.941176470588236,
+        "median": 21.0,
+        "p90": 46.4,
+        "min": 4,
+        "max": 47,
+        "sd_population": 14.694819368164271,
+        "cv_population": 0.6405434083558785
+      },
+      "paragraph_length_words": {
+        "mean": 65.0,
+        "median": 65.5,
+        "p90": 108.0,
+        "min": 4,
+        "max": 130,
+        "sd_population": 38.867295592395756,
+        "cv_population": 0.5979583937291655
+      },
+      "lexical": {
+        "type_token_ratio": 0.6461538461538462,
+        "root_ttr": 12.7605160252542,
+        "mtld_bidirectional_threshold_0_72": 120.67877629063098,
+        "mean_word_length_including_internal_hyphens": 4.456410256410257,
+        "hapax_types": 227,
+        "hapax_types_fraction": 0.9007936507936508
+      },
+      "punctuation_counts": {
+        "comma": 26,
+        "semicolon": 0,
+        "colon": 2,
+        "parenthetical_open": 0,
+        "question_mark": 1,
+        "exclamation_mark": 0,
+        "dash": 3
+      },
+      "punctuation_per_1000_tokens": {
+        "comma": 66.66666666666667,
+        "semicolon": 0.0,
+        "colon": 5.128205128205129,
+        "parenthetical_open": 0.0,
+        "question_mark": 2.5641025641025643,
+        "exclamation_mark": 0.0,
+        "dash": 7.6923076923076925
+      },
+      "sentence_length_bins": {
+        "1_to_5": 3,
+        "6_to_15": 3,
+        "16_to_30": 6,
+        "31_to_50": 5,
+        "over_50": 0
+      },
+      "repeated_three_word_sentence_openings": {},
+      "surface_function_word_counts": {
+        "și": 7,
+        "de": 34,
+        "în": 13,
+        "cu": 9,
+        "la": 9,
+        "pe": 13,
+        "că": 1,
+        "un": 10,
+        "o": 10,
+        "a": 12,
+        "din": 6,
+        "care": 5,
+        "să": 2,
+        "se": 1,
+        "nu": 1,
+        "iar": 1,
+        "dar": 0,
+        "ca": 2,
+        "pentru": 0,
+        "prin": 1,
+        "era": 3
+      },
+      "internal_circumflex_tokens": {
+        "î": {},
+        "â": {
+          "bătând": 1,
+          "crezând": 1,
+          "când": 3,
+          "cânepă": 1,
+          "călcâie": 1,
+          "dâră": 1,
+          "fâș": 1,
+          "lăsând": 1,
+          "mâzga": 1,
+          "prinzând": 1,
+          "pârâiau": 1,
+          "săptămână": 1
+        }
+      },
+      "sentences_with_lengths": [
+        {
+          "i": 1,
+          "word_tokens": 47,
+          "text": "În ’81, când Kraftwerk au scos albumul Computer World, Ralf Hütter era deja dependent de un zgomot pe care îl captase de pe o bandă de magnetofon ORWO, primită prin poștă de la un unchi care lucra ca inginer de recepție la Fabrica de Confecții din Botoșani."
+        },
+        {
+          "i": 2,
+          "word_tokens": 5,
+          "text": "Pe bandă nu era muzică."
+        },
+        {
+          "i": 3,
+          "word_tokens": 34,
+          "text": "Era doar înregistrarea pe viu a unei hale unde trei sute de mașini de cusut Singer și Ileana rulau în gol în tura de noapte, alimentate de o tensiune fluctuantă de 180 de volți."
+        },
+        {
+          "i": 4,
+          "word_tokens": 21,
+          "text": "Ralf a venit în Nord în secret, cu un pașaport fals pe numele unui tehnician est-german de la uzinele Carl Zeiss."
+        },
+        {
+          "i": 5,
+          "word_tokens": 21,
+          "text": "S-a cazat la un cămin de nefamiliști din zona industrială și și-a petrecut o săptămână bătând malul iazului de după gară."
+        },
+        {
+          "i": 6,
+          "word_tokens": 24,
+          "text": "În noiembrie, apa îngheța într-un mod bizar, stratificat, prinzând sub pojghița de gheață bule de gaz de baltă care pârâiau când scădea presiunea atmosferică."
+        },
+        {
+          "i": 7,
+          "word_tokens": 46,
+          "text": "Într-o seară, pe când stătea pe o lădiță de lemn de la o sticlă de lapte, cu căștile pe urechi conectate la un casetofon portabil, de el s-a apropiat Ana, o femeie de la finisaj, înaltă, cu părul ca o tulpina de cânepă uscată de soare."
+        },
+        {
+          "i": 8,
+          "word_tokens": 4,
+          "text": "Venea din schimbul doi."
+        },
+        {
+          "i": 9,
+          "word_tokens": 19,
+          "text": "S-a oprit, s-a uitat la neamțul îmbrăcat în fâș negru mulat și l-a întrebat scurt:\n\n- Ai o țigară, băiatu?"
+        },
+        {
+          "i": 10,
+          "word_tokens": 7,
+          "text": "Ralf i-a întins un pachet de Rothmans."
+        },
+        {
+          "i": 11,
+          "word_tokens": 47,
+          "text": "Femeia a aprins țigara cu un chibrit cu gămălie verde, iar în secunda în care flacăra a luminat fața ei cu ochi verzi, complet lipsiți de expresie – acea privire de sfințenie rigidă a fetelor crescute cu mămăligă și urdă – neamțul a auzit în căști un scurtcircuit perfect."
+        },
+        {
+          "i": 12,
+          "word_tokens": 14,
+          "text": "Gheața de pe iaz a crăpat cu un sunet de sintetizator analogic pur: Kling-klang."
+        },
+        {
+          "i": 13,
+          "word_tokens": 5,
+          "text": "Femeia n-a scos o vorbă."
+        },
+        {
+          "i": 14,
+          "word_tokens": 30,
+          "text": "A tras un fum, a scuipat pe gheață și a plecat spre blocurile din gura autogării, lăsând în urmă o dâră de lumină statică ce părea să-i iasă din călcâie."
+        },
+        {
+          "i": 15,
+          "word_tokens": 11,
+          "text": "Ralf s-a întors la Düsseldorf și a programat piesa Das Model."
+        },
+        {
+          "i": 16,
+          "word_tokens": 16,
+          "text": "Toată Europa a dansat pe ea, crezând că e despre fetele de pe podiumurile din Paris."
+        },
+        {
+          "i": 17,
+          "word_tokens": 39,
+          "text": "În realitate, ritmul ăla rigid, matematic și rece, e doar pasul unei muncitoare obosite care trece podul de pontoane, cu tălpile de cauciuc lipăind pe mâzga înghețată, grăbită să ajungă acasă înainte să se oprească lumina în tot cartierul."
+        }
+      ],
+      "name": "Kraftwerk",
+      "start_char": 7456,
+      "end_char": 9641
+    }
+  ],
+  "source_text_sha256": "fb5db63cceada64a5f652060eeb84ec082c048da8524c491790ca9d336ba75a3",
+  "established_measurement_script_sha256": "7adf4f7af3bf64cfd5dc40b99a95d6cb7cb2429df78c85906e7df6bb4c377cb6",
+  "legacy_ascii_sentence_splitter_sentence_count": 62,
+  "excluded_measures": {
+    "English_readability_indices": "Not computed: English syllable heuristics and grade calibrations do not apply to Romanian.",
+    "English_hedge_booster_pronoun_dictionaries": "Not computed: English dictionaries would mismeasure Romanian.",
+    "POS_and_dependency_ratios": "Not computed: no validated Romanian tagger was run.",
+    "author_distance_and_Gemini_attribution": "Not estimated: no authenticated Sociu or matched Gemini comparison corpus supplied."
+  },
+  "method_limits": [
+    "Single literary text; its four episodes are not independent author samples.",
+    "Established word regex retains internal hyphenated clitics as single tokens. Billing uses whitespace words.",
+    "Sentence splitting is heuristic, extended to Romanian uppercase initials.",
+    "Lexical measures use lowercase surface forms, without lemmatization or spelling modernization.",
+    "TTR depends on length; MTLD varies with vocabulary and genre. Episode comparisons are descriptive only.",
+    "Circumflex spellings may reflect publication editing or text assembly.",
+    "No measure here establishes authorship or generator identity."
+  ],
+  "specified_phrase_concordances": {
+    "în timp ce": [
+      {
+        "start_char": 1214,
+        "end_char": 1224,
+        "paragraph": 2,
+        "context": "ă, delira ușor despre „lumina necreată a heruvimilor”, în timp ce Maggie își strîngea rucsacul la piept, simțind cum iarna moldovenească îi intră prin tălpile s"
+      },
+      {
+        "start_char": 1975,
+        "end_char": 1985,
+        "paragraph": 4,
+        "context": "ețate, sub pătura lor din lînă de lama adusă din Peru, în timp ce roțile trenului băteau un ritm lent, sincopat, ca o inimă pe moarte: clanc-clanc, clanc-clanc."
+      }
+    ],
+    "în realitate": [
+      {
+        "start_char": 5927,
+        "end_char": 5939,
+        "paragraph": 14,
+        "context": "asă, au fost scrise după despărțirea lui de PJ Harvey. În realitate, Nick petrecuse trei săptămîni în toamna lui ‚95 la Hotel Rapsodia din Botoșani, rătăcit în ur"
+      },
+      {
+        "start_char": 9401,
+        "end_char": 9413,
+        "paragraph": 24,
+        "context": "ezând că e despre fetele de pe podiumurile din Paris.\n\nÎn realitate, ritmul ăla rigid, matematic și rece, e doar pasul unei muncitoare obosite care trece podul de"
+      }
+    ],
+    "se știe că": [
+      {
+        "start_char": 0,
+        "end_char": 10,
+        "paragraph": 1,
+        "context": "Se știe că Billie Eilish a fost concepută într-un tren personal pe ruta Suceava-Pașcani, într-un vagon de"
+      }
+    ],
+    "se zice că": [
+      {
+        "start_char": 3504,
+        "end_char": 3514,
+        "paragraph": 9,
+        "context": "pînă la Pașcani mai avem o viață întreagă de pierdut.\n\nSe zice că Thom Yorke a compus ritmul de la Idioteque după ce a petrecut o noapte întreagă într-o cabină "
+      }
+    ],
+    "era exact": [
+      {
+        "start_char": 2989,
+        "end_char": 2998,
+        "paragraph": 7,
+        "context": "in California sau cu palmierii de pe Sunset Boulevard. Era exact zgomotul de joasă frecvență al osiei de la vagonul de clasa a doua, bătînd ritmic în podea, un"
+      }
+    ],
+    "toată": [
+      {
+        "start_char": 5640,
+        "end_char": 5645,
+        "paragraph": 13,
+        "context": "direct spre gara mică. Cînd a scos piesa aia pe album, toată critica muzicală din Londra scria despre anxietatea milenaristă a societății tehnologizate.\n\nC"
+      },
+      {
+        "start_char": 5783,
+        "end_char": 5788,
+        "paragraph": 14,
+        "context": "logizate.\n\nCînd Nick Cave a lansat The Boatman’s Call, toată Londra credea că piesele alea obsedante, cu pian tînguitor și dragoste mizericordioasă, au fos"
+      },
+      {
+        "start_char": 7263,
+        "end_char": 7268,
+        "paragraph": 18,
+        "context": ". Nick n-a înțeles cuvintele, dar a simțit în vocea ei toată greutatea unui județ care n-avea unde să se ducă. Melodia Into My Arms s-a născut acolo, între"
+      },
+      {
+        "start_char": 9315,
+        "end_char": 9320,
+        "paragraph": 23,
+        "context": "a întors la Düsseldorf și a programat piesa Das Model. Toată Europa a dansat pe ea, crezând că e despre fetele de pe podiumurile din Paris.\n\nÎn realitate, "
+      }
+    ],
+    "ca o": [
+      {
+        "start_char": 2033,
+        "end_char": 2037,
+        "paragraph": 4,
+        "context": "timp ce roțile trenului băteau un ritm lent, sincopat, ca o inimă pe moarte: clanc-clanc, clanc-clanc.\n\nCînd controlorul a bătut cu cheia pătrată în geamu"
+      },
+      {
+        "start_char": 8509,
+        "end_char": 8513,
+        "paragraph": 21,
+        "context": "apropiat Ana, o femeie de la finisaj, înaltă, cu părul ca o tulpina de cânepă uscată de soare. Venea din schimbul doi. S-a oprit, s-a uitat la neamțul îmb"
+      }
+    ],
+    "ca pe": [
+      {
+        "start_char": 1048,
+        "end_char": 1053,
+        "paragraph": 2,
+        "context": "gă de plastic ceapă roșie cu slănină, privindu-i lung, ca pe două apariții extraterestre. Patrick, cuprins de o febră bruscă de la apa băută de la o fîntîn"
+      }
+    ]
+  }
+}

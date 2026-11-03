@@ -1,0 +1,26 @@
+{
+  "client_date": "2026-11-03",
+  "frozen_at_utc": "2026-11-03T12:46:40.585438+00:00",
+  "question": "Does one detector readout support the disclosed AI collaboration, and what observable style characterizes the publication?",
+  "corpus": "One exact Romanian literary body, printed pages 48-49; no translation.",
+  "input_sha256": "fb5db63cceada64a5f652060eeb84ec082c048da8524c491790ca9d336ba75a3",
+  "author_and_model_byline_sent_to_detector": false,
+  "detector_model_requested": "pangram-4.1",
+  "primary_endpoint": "fraction_ai, retain raw precision",
+  "secondary_endpoints": [
+    "fraction_ai_assisted",
+    "fraction_human",
+    "prediction_short",
+    "segment labels and boundaries"
+  ],
+  "stopping_rule": "One paid submission for this frozen whole text; no variants, episode scoring, controls, or rewrites. Resume accepted jobs rather than resubmit.",
+  "pricing_checked": [
+    "https://www.pangram.com/pricing",
+    "https://docs.pangram.com/api-reference/bulk-api"
+  ],
+  "model_scope_checked": "https://www.pangram.com/research/model-card/pangram-4-1",
+  "score_blind_assessment_sha256": "4949479362fffb781d113698f4546b71a2e4808ac471aded54bf7988df70dc13",
+  "linguistic_measurement_sha256": "05abcc68e44fc327c11554df9f568540e613e409d6b4c8354d5e36932f5a2ccd",
+  "origin_status": "Published co-credit is a provenance claim, not verified generation logs.",
+  "inference_limit": "Detector output and a single-text style profile cannot establish honesty, actual generation history, human/AI edit proportions, or a specific generator."
+}

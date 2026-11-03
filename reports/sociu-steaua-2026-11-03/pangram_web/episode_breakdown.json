@@ -1,0 +1,38 @@
+[
+  {
+    "episode": "Billie Eilish",
+    "surface_word_units": 630,
+    "AI_labeled_word_units": 436,
+    "Human_labeled_word_units": 194,
+    "AI_assisted_labeled_word_units": 0,
+    "AI_labeled_percent_recomputed": 69.2063492063492,
+    "basis": "Word units from Unicode word runs intersecting web-labeled segments; derived locally, not a separate provider scan."
+  },
+  {
+    "episode": "Thom Yorke",
+    "surface_word_units": 411,
+    "AI_labeled_word_units": 171,
+    "Human_labeled_word_units": 240,
+    "AI_assisted_labeled_word_units": 0,
+    "AI_labeled_percent_recomputed": 41.605839416058394,
+    "basis": "Word units from Unicode word runs intersecting web-labeled segments; derived locally, not a separate provider scan."
+  },
+  {
+    "episode": "Nick Cave",
+    "surface_word_units": 308,
+    "AI_labeled_word_units": 153,
+    "Human_labeled_word_units": 155,
+    "AI_assisted_labeled_word_units": 0,
+    "AI_labeled_percent_recomputed": 49.675324675324674,
+    "basis": "Word units from Unicode word runs intersecting web-labeled segments; derived locally, not a separate provider scan."
+  },
+  {
+    "episode": "Kraftwerk",
+    "surface_word_units": 404,
+    "AI_labeled_word_units": 404,
+    "Human_labeled_word_units": 0,
+    "AI_assisted_labeled_word_units": 0,
+    "AI_labeled_percent_recomputed": 100.0,
+    "basis": "Word units from Unicode word runs intersecting web-labeled segments; derived locally, not a separate provider scan."
+  }
+]

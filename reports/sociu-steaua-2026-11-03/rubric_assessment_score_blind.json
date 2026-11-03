@@ -1,0 +1,85 @@
+{
+  "scores": [
+    0,
+    null,
+    null,
+    null,
+    0,
+    null,
+    0,
+    0,
+    0,
+    0,
+    0,
+    null,
+    1,
+    null,
+    null,
+    4,
+    3,
+    1,
+    0,
+    3
+  ],
+  "evidence": [
+    {
+      "i": 12,
+      "quote": "Doar șoptea.",
+      "reason": "A two-token sentence interrupts longer explanatory narration. Sentence rhythm is not strongly uniform."
+    },
+    {
+      "i": 12,
+      "quote": "Și astăzi, cînd Billie Eilish umple stadioane la Londra sau Tokyo",
+      "reason": "This extended subordinate-clause opening contrasts with the short sentence in the same episode."
+    },
+    {
+      "i": 15,
+      "quote": "trei sute de mașini de cusut Singer și Ileana",
+      "reason": "Named machines and a quantity give concrete specificity. This fictional detail is not evidence of factual accuracy."
+    },
+    {
+      "i": 15,
+      "quote": "un custode pensionar i-a arătat doar niște replici din ghips și i-a cerut un pachet de țigări Assos",
+      "reason": "An actor, material, transaction and brand specify the scene."
+    },
+    {
+      "i": 16,
+      "quote": "Din cauza reumatismului, doamna Mioara se mișca cu o grație rigidă, aproape spectrală.",
+      "reason": "Bodily condition, movement and visual impression form a recoverable relation; clauses across the piece often add such relations or sensory details."
+    },
+    {
+      "i": 17,
+      "quote": "ce părea să-i iasă din călcâie",
+      "reason": "An occasional appearance qualifier occurs, but most narrative propositions are asserted directly. This rates amount, not empirical adequacy."
+    },
+    {
+      "i": 18,
+      "quote": "Ralf s-a întors la Düsseldorf și a programat piesa Das Model.",
+      "reason": "Third-person characters act; the narrator does not describe their own actions. This narrow score does not make the storytelling voice neutral."
+    },
+    {
+      "i": 19,
+      "quote": "De asta muzica ei are tristețea aia de gară de triaj",
+      "reason": "An explicit causal interpretation states the sonic analogy."
+    },
+    {
+      "i": 19,
+      "quote": "În realitate, Nick petrecuse trei săptămîni",
+      "reason": "The transition explicitly opposes the public story and the narrated alternative."
+    },
+    {
+      "i": 19,
+      "quote": "În realitate, ritmul ăla rigid, matematic și rece",
+      "reason": "The same transition names the final explanatory reversal in another episode."
+    }
+  ],
+  "limitations": [
+    "Rubric v0.2.0 was developed for academic abstracts, whereas this is Romanian literary fiction.",
+    "Scope overreach, certainty mismatch, result/interpretation blur, unsupported scholarly ending, inflated evidential evaluation, academic abstract-template strength, and stock academic phrasing are not assessed; their scores are null.",
+    "The remaining syntax and style judgments are transferable descriptions, not validated literary scales.",
+    "One detector-score-blind model assessment, not an independent human panel; the assessor knows the user-supplied provenance claim.",
+    "Intentional sonic repetition and parallel plots are described separately, without assuming they are defects.",
+    "Narrator prominence here concerns overt narrator/author actions, not the strength of the omniscient storytelling voice.",
+    "No overall quality, human-likeness or authorship score is formed by summing these items."
+  ]
+}

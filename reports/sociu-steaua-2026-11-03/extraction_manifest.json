@@ -1,0 +1,48 @@
+{
+  "source_pdf": "Steaua_nr10-2026-web.pdf",
+  "source_pdf_sha256": "b0b9bf4ba2e7170caefbee58de1f0b0509df422ed8861c040678ba900962c4ff",
+  "pdf_pages": [
+    49,
+    50
+  ],
+  "printed_pages": [
+    48,
+    49
+  ],
+  "title": "La sud de Londra (fragment)",
+  "printed_byline": "Dan Sociu & Gemini",
+  "language": "Romanian",
+  "body_sha256": "fb5db63cceada64a5f652060eeb84ec082c048da8524c491790ca9d336ba75a3",
+  "whitespace_words": 1693,
+  "paragraph_count": 24,
+  "normalizations": [
+    "Read body columns in order; exclude byline, title, fragment label, page numbers and rotated running footer.",
+    "Restore printed paragraph boundaries from indentation.",
+    "Join visual line breaks inside paragraphs; preserve original spelling, diacritics and punctuation.",
+    "Remove terminal printer ornament."
+  ],
+  "line_end_hyphen_joins": [
+    {
+      "before": "perso-\nnal",
+      "after": "personal"
+    },
+    {
+      "before": "cera-\nmica",
+      "after": "ceramica"
+    },
+    {
+      "before": "reumatis-\nmului",
+      "after": "reumatismului"
+    },
+    {
+      "before": "prin-\nzând",
+      "after": "prinzând"
+    },
+    {
+      "before": "progra-\nmat",
+      "after": "programat"
+    }
+  ],
+  "article_instructions_executed": false,
+  "source_note": "User-supplied PDF; full magazine is not included in this report bundle."
+}

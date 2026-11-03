@@ -1,0 +1,274 @@
+{
+  "rubric_version": "0.2.0",
+  "text_sha256": "fb5db63cceada64a5f652060eeb84ec082c048da8524c491790ca9d336ba75a3",
+  "metrics": [
+    {
+      "id": "review_claim_01",
+      "label": "Unclear claim",
+      "kind": "editorial_issue_severity",
+      "score_raw": 0,
+      "score": 0,
+      "status": "no_issue_observed",
+      "evidence": []
+    },
+    {
+      "id": "review_claim_03",
+      "label": "Scope overreach",
+      "kind": "editorial_issue_severity",
+      "score_raw": null,
+      "score": null,
+      "status": "not_assessed",
+      "evidence": []
+    },
+    {
+      "id": "review_claim_04",
+      "label": "Certainty mismatch",
+      "kind": "editorial_issue_severity",
+      "score_raw": null,
+      "score": null,
+      "status": "not_assessed",
+      "evidence": []
+    },
+    {
+      "id": "review_claim_06",
+      "label": "Result and interpretation blur",
+      "kind": "editorial_issue_severity",
+      "score_raw": null,
+      "score": null,
+      "status": "not_assessed",
+      "evidence": []
+    },
+    {
+      "id": "review_argument_04",
+      "label": "Progression problem",
+      "kind": "editorial_issue_severity",
+      "score_raw": 0,
+      "score": 0,
+      "status": "no_issue_observed",
+      "evidence": []
+    },
+    {
+      "id": "review_argument_06",
+      "label": "Weak or unsupported ending",
+      "kind": "editorial_issue_severity",
+      "score_raw": null,
+      "score": null,
+      "status": "not_assessed",
+      "evidence": []
+    },
+    {
+      "id": "review_sentence_01",
+      "label": "Unclear actors and actions",
+      "kind": "editorial_issue_severity",
+      "score_raw": 0,
+      "score": 0,
+      "status": "no_issue_observed",
+      "evidence": []
+    },
+    {
+      "id": "review_sentence_02",
+      "label": "Nominalization burden",
+      "kind": "editorial_issue_severity",
+      "score_raw": 0,
+      "score": 0,
+      "status": "no_issue_observed",
+      "evidence": []
+    },
+    {
+      "id": "review_sentence_04",
+      "label": "Processing burden",
+      "kind": "editorial_issue_severity",
+      "score_raw": 0,
+      "score": 0,
+      "status": "no_issue_observed",
+      "evidence": []
+    },
+    {
+      "id": "review_sentence_06",
+      "label": "Redundancy",
+      "kind": "editorial_issue_severity",
+      "score_raw": 0,
+      "score": 0,
+      "status": "no_issue_observed",
+      "evidence": []
+    },
+    {
+      "id": "review_style_01",
+      "label": "Empty metadiscourse",
+      "kind": "editorial_issue_severity",
+      "score_raw": 0,
+      "score": 0,
+      "status": "no_issue_observed",
+      "evidence": []
+    },
+    {
+      "id": "review_style_04",
+      "label": "Inflated or vague evaluation",
+      "kind": "editorial_issue_severity",
+      "score_raw": null,
+      "score": null,
+      "status": "not_assessed",
+      "evidence": []
+    },
+    {
+      "id": "rhythm_uniformity",
+      "label": "Sentence rhythm uniformity",
+      "kind": "descriptive_style_trait",
+      "score_raw": 1,
+      "score": 1,
+      "status": "assessed",
+      "evidence": [
+        {
+          "quote": "Doar șoptea.",
+          "reason": "A two-token sentence interrupts longer explanatory narration. Sentence rhythm is not strongly uniform.",
+          "start_char": 2756,
+          "end_char": 2768,
+          "multiple_occurrences": false
+        },
+        {
+          "quote": "Și astăzi, cînd Billie Eilish umple stadioane la Londra sau Tokyo",
+          "reason": "This extended subordinate-clause opening contrasts with the short sentence in the same episode.",
+          "start_char": 3125,
+          "end_char": 3190,
+          "multiple_occurrences": false
+        }
+      ]
+    },
+    {
+      "id": "template_strength",
+      "label": "Rhetorical template strength",
+      "kind": "descriptive_style_trait",
+      "score_raw": null,
+      "score": null,
+      "status": "not_assessed",
+      "evidence": []
+    },
+    {
+      "id": "lexical_conventionality",
+      "label": "Stock academic phrasing",
+      "kind": "descriptive_style_trait",
+      "score_raw": null,
+      "score": null,
+      "status": "not_assessed",
+      "evidence": []
+    },
+    {
+      "id": "content_specificity",
+      "label": "Content specificity",
+      "kind": "descriptive_style_trait",
+      "score_raw": 4,
+      "score": 4,
+      "status": "assessed",
+      "evidence": [
+        {
+          "quote": "trei sute de mașini de cusut Singer și Ileana",
+          "reason": "Named machines and a quantity give concrete specificity. This fictional detail is not evidence of factual accuracy.",
+          "start_char": 7785,
+          "end_char": 7830,
+          "multiple_occurrences": false
+        },
+        {
+          "quote": "un custode pensionar i-a arătat doar niște replici din ghips și i-a cerut un pachet de țigări Assos",
+          "reason": "An actor, material, transaction and brand specify the scene.",
+          "start_char": 4318,
+          "end_char": 4417,
+          "multiple_occurrences": false
+        }
+      ]
+    },
+    {
+      "id": "conceptual_density",
+      "label": "Conceptual density",
+      "kind": "descriptive_style_trait",
+      "score_raw": 3,
+      "score": 3,
+      "status": "assessed",
+      "evidence": [
+        {
+          "quote": "Din cauza reumatismului, doamna Mioara se mișca cu o grație rigidă, aproape spectrală.",
+          "reason": "Bodily condition, movement and visual impression form a recoverable relation; clauses across the piece often add such relations or sensory details.",
+          "start_char": 6850,
+          "end_char": 6936,
+          "multiple_occurrences": false
+        }
+      ]
+    },
+    {
+      "id": "qualification_density",
+      "label": "Qualification density",
+      "kind": "descriptive_style_trait",
+      "score_raw": 1,
+      "score": 1,
+      "status": "assessed",
+      "evidence": [
+        {
+          "quote": "ce părea să-i iasă din călcâie",
+          "reason": "An occasional appearance qualifier occurs, but most narrative propositions are asserted directly. This rates amount, not empirical adequacy.",
+          "start_char": 9221,
+          "end_char": 9251,
+          "multiple_occurrences": false
+        }
+      ]
+    },
+    {
+      "id": "narrator_prominence",
+      "label": "Narrator prominence",
+      "kind": "descriptive_style_trait",
+      "score_raw": 0,
+      "score": 0,
+      "status": "assessed",
+      "evidence": [
+        {
+          "quote": "Ralf s-a întors la Düsseldorf și a programat piesa Das Model.",
+          "reason": "Third-person characters act; the narrator does not describe their own actions. This narrow score does not make the storytelling voice neutral.",
+          "start_char": 9253,
+          "end_char": 9314,
+          "multiple_occurrences": false
+        }
+      ]
+    },
+    {
+      "id": "connective_explicitness",
+      "label": "Explicit discourse connections",
+      "kind": "descriptive_style_trait",
+      "score_raw": 3,
+      "score": 3,
+      "status": "assessed",
+      "evidence": [
+        {
+          "quote": "De asta muzica ei are tristețea aia de gară de triaj",
+          "reason": "An explicit causal interpretation states the sonic analogy.",
+          "start_char": 268,
+          "end_char": 320,
+          "multiple_occurrences": false
+        },
+        {
+          "quote": "În realitate, Nick petrecuse trei săptămîni",
+          "reason": "The transition explicitly opposes the public story and the narrated alternative.",
+          "start_char": 5927,
+          "end_char": 5970,
+          "multiple_occurrences": false
+        },
+        {
+          "quote": "În realitate, ritmul ăla rigid, matematic și rece",
+          "reason": "The same transition names the final explanatory reversal in another episode.",
+          "start_char": 9401,
+          "end_char": 9450,
+          "multiple_occurrences": false
+        }
+      ]
+    }
+  ],
+  "assessed_metrics": 13,
+  "invalid_evidence": [],
+  "limitations": [
+    "Rubric v0.2.0 was developed for academic abstracts, whereas this is Romanian literary fiction.",
+    "Scope overreach, certainty mismatch, result/interpretation blur, unsupported scholarly ending, inflated evidential evaluation, academic abstract-template strength, and stock academic phrasing are not assessed; their scores are null.",
+    "The remaining syntax and style judgments are transferable descriptions, not validated literary scales.",
+    "One detector-score-blind model assessment, not an independent human panel; the assessor knows the user-supplied provenance claim.",
+    "Intentional sonic repetition and parallel plots are described separately, without assuming they are defects.",
+    "Narrator prominence here concerns overt narrator/author actions, not the strength of the omniscient storytelling voice.",
+    "No overall quality, human-likeness or authorship score is formed by summing these items."
+  ],
+  "validation_scope": "Exact quotes and permitted score values checked. Editorial validity and scientific truth are not established."
+}

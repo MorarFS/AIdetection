@@ -1,0 +1,395 @@
+{
+  "provenance": "Read-only accessibility snapshot of completed Pangram web result; displayed rounded class percentages, not raw API values.",
+  "model_displayed": "4.1",
+  "document_prediction_displayed": "Mixed",
+  "ai_percent_displayed": 66,
+  "human_percent_displayed": 34,
+  "website_word_count_displayed": 1753,
+  "exact_normalized_body_covered": true,
+  "segments": [
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "Se știe că Billie Eilish a fost concepută într-un tren personal pe ruta Suceava-Pașcani, într-un vagon de clasa a doua, cu banchete de lemn. Părinții ei erau hippie rătăciți prin Moldova în anii ‚90, căutau spiritualitatea bizantină și au găsit doar rachiu de sfeclă. De asta muzica ei are tristețea aia de gară de triaj, cu voci șoptite ca să nu audă controlorul care vine de pe hol. Maggie și Patrick, doi californieni cu haine din pînză de sac și sandale din cauciuc reciclat, coborîseră pe aeroportul Otopeni prin ‚93, cu niște hărți xeroxate și un ghid al mănăstirilor din Bucovina. Credeau că vor găsi aici un fel de Tibet ortodox, plin de bătrîni luminați care levitează deasupra pămîntului în miros de tămîie.\nCînd s-au urcat în personalul de Pașcani, vagonul era aproape gol. Lumina chioară, galbenă, tremura la fiecare indecizie a suspensiilor, iar ferestrele erau prinse cu sîrmă ca să nu cadă de tot. Într-un colț, un bărbat cu căciulă de astrahan și subrațul ud mînca dintr-o pungă de plastic ceapă roșie cu slănină, privindu-i lung, ca pe două apariții extraterestre. Patrick, cuprins de o febră bruscă de la apa băută de la o fîntînă cu cumpănă, delira ușor despre „lumina necreată a heruvimilor”, în timp ce Maggie își strîngea rucsacul la piept, simțind cum iarna moldovenească îi intră prin tălpile subțiri.\nN-au mai ajuns la Voroneț. Pe la jumătatea drumului, între două halte nenumite unde trenul a oprit în cîmp fără niciun motiv timp de o oră, frigul devenise atât de tăios încît au fost nevoiți să se lipească unul de altul pe bancheta de lemn tare, jupuită de pînză.",
+      "i": 1,
+      "start_normalized_char": 0,
+      "end_normalized_char": 1590,
+      "start_original_char": 0,
+      "end_original_char": 1592,
+      "label": "AI",
+      "unicode_word_units": 280
+    },
+    {
+      "confidence_label_displayed": "Medium",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Ca să prindă curaj, bărbatul cu căciulă de miel le-a întins o sticlă de plastic de doi litri, fără etichetă. Medical, autohton, le-a zis și a zîmbit.\nDupă trei guri, creierul californienilor a făcut poc.",
+      "i": 2,
+      "start_normalized_char": 1591,
+      "end_normalized_char": 1794,
+      "start_original_char": 1593,
+      "end_original_char": 1797,
+      "label": "Human",
+      "unicode_word_units": 37
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Lumea n-a mai fost sfîntă, ci incredibil de grea, densă și apoasă. Patrick a început s-o dezbrace pe Maggie cu degete înghețate, sub pătura lor din lînă de lama adusă din Peru, în timp ce roțile trenului băteau un ritm lent, sincopat, ca o inimă pe moarte: clanc-clanc, clanc-clanc.",
+      "i": 3,
+      "start_normalized_char": 1795,
+      "end_normalized_char": 2077,
+      "start_original_char": 1798,
+      "end_original_char": 2080,
+      "label": "Human",
+      "unicode_word_units": 53
+    },
+    {
+      "confidence_label_displayed": "Low",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Cînd controlorul a bătut cu cheia pătrată în geamul ușii glisante și a strigat biletele la control, băieți!, Patrick și Maggie s-au oprit, încremeniți sub pătură.",
+      "i": 4,
+      "start_normalized_char": 2078,
+      "end_normalized_char": 2240,
+      "start_original_char": 2082,
+      "end_original_char": 2244,
+      "label": "Human",
+      "unicode_word_units": 27
+    },
+    {
+      "confidence_label_displayed": "Medium",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "Maggie i-a pus mîna la gură lui Patrick și au stat amîndoi muți, ascultînd pașii grei ai nașului care se îndepărta pe coridor.",
+      "i": 5,
+      "start_normalized_char": 2241,
+      "end_normalized_char": 2367,
+      "start_original_char": 2245,
+      "end_original_char": 2371,
+      "label": "AI",
+      "unicode_word_units": 24
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "În secunda aceea de liniște suspendată, în care se auzea doar fîsîitul instalației de căldură defecte și aburul care le ieșea din guri, s-a născut sămînța a ceea ce, peste ani, avea să devină un sound global.",
+      "i": 6,
+      "start_normalized_char": 2368,
+      "end_normalized_char": 2576,
+      "start_original_char": 2373,
+      "end_original_char": 2581,
+      "label": "AI",
+      "unicode_word_units": 38
+    },
+    {
+      "confidence_label_displayed": "Medium",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Ulterior, s-au întors în Los Angeles.",
+      "i": 7,
+      "start_normalized_char": 2577,
+      "end_normalized_char": 2614,
+      "start_original_char": 2583,
+      "end_original_char": 2620,
+      "label": "Human",
+      "unicode_word_units": 7
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Au uitat de Moldova, de rachiul de sfeclă și de trenul personal. Dar cînd s-a născut fetița, au observat că nu plîngea niciodată tare.",
+      "i": 8,
+      "start_normalized_char": 2615,
+      "end_normalized_char": 2749,
+      "start_original_char": 2621,
+      "end_original_char": 2755,
+      "label": "Human",
+      "unicode_word_units": 25
+    },
+    {
+      "confidence_label_displayed": "Medium",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Doar șoptea.",
+      "i": 9,
+      "start_normalized_char": 2750,
+      "end_normalized_char": 2762,
+      "start_original_char": 2756,
+      "end_original_char": 2768,
+      "label": "Human",
+      "unicode_word_units": 2
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Iar cînd a crescut și s-a închis în dormitor cu frate-su să tragă primele piese pe calculator, basul pe care l-au pus sub vocea ei n-avea nicio legătură cu soarele din California sau cu palmierii de pe Sunset Boulevard.",
+      "i": 10,
+      "start_normalized_char": 2763,
+      "end_normalized_char": 2982,
+      "start_original_char": 2769,
+      "end_original_char": 2988,
+      "label": "Human",
+      "unicode_word_units": 43
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "Era exact zgomotul de joasă frecvență al osiei de la vagonul de clasa a doua, bătînd ritmic în podea, undeva între Suceava și Verești.\nȘi astăzi, cînd Billie Eilish umple stadioane la Londra sau Tokyo și se uită la public cu ochii ăia ai ei pe jumătate închiși, obosiți de o plictiseală cosmică, ea nu face altceva decît să vadă prin întuneric silueta unui bărbat cu căciulă de miel, care-i întinde o sticlă cu rachiu de sfeclă și-i șoptește: Bea, fetițo, că pînă la Pașcani mai avem o viață întreagă de pierdut.\nSe zice că Thom Yorke a compus ritmul de la Idioteque după ce a petrecut o noapte întreagă într-o cabină telefonică fixă, plină de hîrtie igienică și chiștoace, lîngă Autogara din Dorohoi.",
+      "i": 11,
+      "start_normalized_char": 2983,
+      "end_normalized_char": 3684,
+      "start_original_char": 2989,
+      "end_original_char": 3692,
+      "label": "AI",
+      "unicode_word_units": 127
+    },
+    {
+      "confidence_label_displayed": "Low",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "Era în ‚97.",
+      "i": 12,
+      "start_normalized_char": 3685,
+      "end_normalized_char": 3696,
+      "start_original_char": 3693,
+      "end_original_char": 3704,
+      "label": "AI",
+      "unicode_word_units": 3
+    },
+    {
+      "confidence_label_displayed": "Low",
+      "class_percentages_displayed": {
+        "AI": 96,
+        "AI-assisted": 0,
+        "Human": 4
+      },
+      "text": "Venise în România obsedat de ceramica de Cucuteni. Văzuse într-un album de artă o poză cu o amforă veche de șase mii de ani, descoperită pe lîngă Trușești, și rămăsese blocat pe spiralele alea negre și roșii care se învîrteau la infinit pe lut.",
+      "i": 13,
+      "start_normalized_char": 3697,
+      "end_normalized_char": 3941,
+      "start_original_char": 3705,
+      "end_original_char": 3949,
+      "label": "AI",
+      "unicode_word_units": 45
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "Thom era convins că desenele nu erau doar decorative, ci reprezentau o formă primitivă de notație muzicală, un ritm matematic perfect, hipnotic, pe care omenirea îl uitase.",
+      "i": 14,
+      "start_normalized_char": 3942,
+      "end_normalized_char": 4114,
+      "start_original_char": 3950,
+      "end_original_char": 4122,
+      "label": "AI",
+      "unicode_word_units": 27
+    },
+    {
+      "confidence_label_displayed": "Medium",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "Ajunsese în Nord cu un rucsac plin de hărți și s-a plimbat două zile prin sate, sperînd să găsească cioburi direct pe cîmp, prin arătură.",
+      "i": 15,
+      "start_normalized_char": 4115,
+      "end_normalized_char": 4252,
+      "start_original_char": 4124,
+      "end_original_char": 4261,
+      "label": "AI",
+      "unicode_word_units": 26
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "Localnicii l-au crezut nebun, iar la muzeul din Dorohoi un custode pensionar i-a arătat doar niște replici din ghips și i-a cerut un pachet de țigări Assos ca să-l lase să le atingă.",
+      "i": 16,
+      "start_normalized_char": 4253,
+      "end_normalized_char": 4435,
+      "start_original_char": 4262,
+      "end_original_char": 4444,
+      "label": "AI",
+      "unicode_word_units": 37
+    },
+    {
+      "confidence_label_displayed": "Medium",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Deznădăjduit și cuprins de o criză de frig, Thom s-a închis în cabina aia telefonică de lîngă autogară.",
+      "i": 17,
+      "start_normalized_char": 4436,
+      "end_normalized_char": 4539,
+      "start_original_char": 4445,
+      "end_original_char": 4548,
+      "label": "Human",
+      "unicode_word_units": 19
+    },
+    {
+      "confidence_label_displayed": "Low",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Thom a stat minute în șir cu receptorul de ebonită neagră lipit de ureche, ascultînd cum firele de cupru de pe stîlpii de lemn băteau în vînt.",
+      "i": 18,
+      "start_normalized_char": 4540,
+      "end_normalized_char": 4682,
+      "start_original_char": 4550,
+      "end_original_char": 4692,
+      "label": "Human",
+      "unicode_word_units": 27
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Centrala telefonică din oraș, una veche, analogică, avea o defecțiune la relee din cauza umezelii de la iazuri și scuipa impulsuri electrice oarbe, un țîrîit metalic, uscat, urmat de un pîrîit scurt și o voce de robot dintr-o altă cameră care zicea: Linia este deranjată, reveniți, linia este deranjată.\nLîngă cabină s-au strîns la un moment dat trei băieți în treninguri lucioase, aduși de spate de frig. Se uitau la el prin geamul murdar cum tremura în geaca lui de fîș prea subțire pentru noiembrie și-și mușca buzele, cu ochii ăia ai lui strîmbi, holbați în gol. Unul dintre băieți a bătut cu o monedă de o sută de lei în geam și i-a strigat: Băi, dă-te mai încolo, că tre’ să sunăm la salvare, s-a îmbătat socrul lui Gică și s-a tăiat la mînă în geam.\nThom a pus receptorul în furcă, a ieșit fără să se uite la ei și a luat-o pe jos, prin noroiul reflectorizant de lîngă calea ferată, direct spre gara mică. Cînd a scos piesa aia pe album, toată critica muzicală din Londra scria despre anxietatea milenaristă a societății tehnologizate.\nCînd Nick Cave a lansat The Boatman’s Call, toată Londra credea că piesele alea obsedante, cu pian tînguitor și dragoste mizericordioasă, au fost scrise după despărțirea lui de PJ Harvey. În realitate, Nick petrecuse trei săptămîni în toamna lui ‚95 la Hotel Rapsodia din Botoșani, rătăcit în urma unui turneu ciudat prin Europa de Est, organizat de un impresar din Chișinău care fugise cu banii.",
+      "i": 19,
+      "start_normalized_char": 4683,
+      "end_normalized_char": 6122,
+      "start_original_char": 4693,
+      "end_original_char": 6135,
+      "label": "Human",
+      "unicode_word_units": 260
+    },
+    {
+      "confidence_label_displayed": "Medium",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Nick rămăsese blocat în oraș cu un singur rînd de haine, costumul lui negru, deșirat și o valiză plină de vederi cu mănăstirea Gorovei.",
+      "i": 20,
+      "start_normalized_char": 6123,
+      "end_normalized_char": 6258,
+      "start_original_char": 6136,
+      "end_original_char": 6271,
+      "label": "Human",
+      "unicode_word_units": 24
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 0,
+        "AI-assisted": 0,
+        "Human": 100
+      },
+      "text": "Duminica, la restaurantul hotelului, se ținea un ceai dansant pentru pensionari. Nick stătea la o masă de la geam, lîngă o mușcată uscată, și bea votcă Săniuța.\nFormația locală, un tip la o clapă Roland setată pe ritm de horă și o doamnă trecută de prima tinerețe cu permanent și rochie de paiete, băga o variantă extrem de lentă a piesei Să-mi cânți, cobzar.",
+      "i": 21,
+      "start_normalized_char": 6259,
+      "end_normalized_char": 6618,
+      "start_original_char": 6273,
+      "end_original_char": 6633,
+      "label": "Human",
+      "unicode_word_units": 65
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "De la masa lui, Nick o privea pe doamna Mioara, o fostă contabilă de la Confecții, care venise singură și își ținea poșeta din imitație de piele pe genunchi, mișcîndu-și ușor pantoful cu toc cubic în ritmul clapei. Din cauza reumatismului, doamna Mioara se mișca cu o grație rigidă, aproape spectrală. Nick a scos un șervețel de hîrtie, din cele aspre și trandafirii cum erau pe atunci, și a scris pe el: Into my arms.\nCînd clapa a scos un bîzîit scurt și s-a luat curentul în tot Centrul Vechi, doamna Mioara a oftat în întuneric: Iar s-a ars transformatorul la confecții. Nick n-a înțeles cuvintele, dar a simțit în vocea ei toată greutatea unui județ care n-avea unde să se ducă. Melodia Into My Arms s-a născut acolo, între un meniu cu friptură de porc la tavă și mirosul de naftalină din garderoba de la Rapsodia.\nÎn ’81, când Kraftwerk au scos albumul Computer World, Ralf Hütter era deja dependent de un zgomot pe care îl captase de pe o bandă de magnetofon ORWO, primită prin poștă de la un unchi care lucra ca inginer de recepție la Fabrica de Confecții din Botoșani.",
+      "i": 22,
+      "start_normalized_char": 6619,
+      "end_normalized_char": 7695,
+      "start_original_char": 6635,
+      "end_original_char": 7713,
+      "label": "AI",
+      "unicode_word_units": 200
+    },
+    {
+      "confidence_label_displayed": "Medium",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "Pe bandă nu era muzică.",
+      "i": 23,
+      "start_normalized_char": 7696,
+      "end_normalized_char": 7719,
+      "start_original_char": 7714,
+      "end_original_char": 7737,
+      "label": "AI",
+      "unicode_word_units": 5
+    },
+    {
+      "confidence_label_displayed": "High",
+      "class_percentages_displayed": {
+        "AI": 100,
+        "AI-assisted": 0,
+        "Human": 0
+      },
+      "text": "Era doar înregistrarea pe viu a unei hale unde trei sute de mașini de cusut Singer și Ileana rulau în gol în tura de noapte, alimentate de o tensiune fluctuantă de 180 de volți.\nRalf a venit în Nord în secret, cu un pașaport fals pe numele unui tehnician est-german de la uzinele Carl Zeiss. S-a cazat la un cămin de nefamiliști din zona industrială și și-a petrecut o săptămână bătând malul iazului de după gară. În noiembrie, apa îngheța într-un mod bizar, stratificat, prinzând sub pojghița de gheață bule de gaz de baltă care pârâiau când scădea presiunea atmosferică.\nÎntr-o seară, pe când stătea pe o lădiță de lemn de la o sticlă de lapte, cu căștile pe urechi conectate la un casetofon portabil, de el s-a apropiat Ana, o femeie de la finisaj, înaltă, cu părul ca o tulpina de cânepă uscată de soare. Venea din schimbul doi. S-a oprit, s-a uitat la neamțul îmbrăcat în fâș negru mulat și l-a întrebat scurt:\n- Ai o țigară, băiatu?\nRalf i-a întins un pachet de Rothmans. Femeia a aprins țigara cu un chibrit cu gămălie verde, iar în secunda în care flacăra a luminat fața ei cu ochi verzi, complet lipsiți de expresie – acea privire de sfințenie rigidă a fetelor crescute cu mămăligă și urdă – neamțul a auzit în căști un scurtcircuit perfect. Gheața de pe iaz a crăpat cu un sunet de sintetizator analogic pur: Kling-klang. Femeia n-a scos o vorbă. A tras un fum, a scuipat pe gheață și a plecat spre blocurile din gura autogării, lăsând în urmă o dâră de lumină statică ce părea să-i iasă din călcâie. Ralf s-a întors la Düsseldorf și a programat piesa Das Model. Toată Europa a dansat pe ea, crezând că e despre fetele de pe podiumurile din Paris.\nÎn realitate, ritmul ăla rigid, matematic și rece, e doar pasul unei muncitoare obosite care trece podul de pontoane, cu tălpile de cauciuc lipăind pe mâzga înghețată, grăbită să ajungă acasă înainte să se oprească lumina în tot cartierul.",
+      "i": 24,
+      "start_normalized_char": 7720,
+      "end_normalized_char": 9617,
+      "start_original_char": 7738,
+      "end_original_char": 9640,
+      "label": "AI",
+      "unicode_word_units": 352
+    }
+  ]
+}

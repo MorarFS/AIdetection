@@ -1,0 +1,166 @@
+{
+  "version": "0.2.0",
+  "metrics": [
+    {
+      "id": "review_claim_01",
+      "label": "Unclear claim",
+      "kind": "editorial_issue_severity",
+      "definition": "A proposition, its subject or scope remains unclear.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_claim_01"
+    },
+    {
+      "id": "review_claim_03",
+      "label": "Scope overreach",
+      "kind": "editorial_issue_severity",
+      "definition": "A conclusion exceeds the population, setting or task actually described in this abstract.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_claim_03"
+    },
+    {
+      "id": "review_claim_04",
+      "label": "Certainty mismatch",
+      "kind": "editorial_issue_severity",
+      "definition": "Certainty or hedging conflicts with the design, results or uncertainty described in this abstract.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_claim_04"
+    },
+    {
+      "id": "review_claim_06",
+      "label": "Result and interpretation blur",
+      "kind": "editorial_issue_severity",
+      "definition": "An observation, explanation, speculation or recommendation is presented without a recoverable distinction.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_claim_06"
+    },
+    {
+      "id": "review_argument_04",
+      "label": "Progression problem",
+      "kind": "editorial_issue_severity",
+      "definition": "The sentence sequence loses the main purpose, makes an unexplained jump or contains a digression.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_argument_04"
+    },
+    {
+      "id": "review_argument_06",
+      "label": "Weak or unsupported ending",
+      "kind": "editorial_issue_severity",
+      "definition": "The ending merely repeats its setup, makes a generic importance claim or adds an unsupported conclusion.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_argument_06"
+    },
+    {
+      "id": "review_sentence_01",
+      "label": "Unclear actors and actions",
+      "kind": "editorial_issue_severity",
+      "definition": "Subjects and verbs obscure who or what acts, where the distinction matters.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_sentence_01"
+    },
+    {
+      "id": "review_sentence_02",
+      "label": "Nominalization burden",
+      "kind": "editorial_issue_severity",
+      "definition": "Action nouns obscure available actors or verbs. Necessary technical nouns are not defects.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_sentence_02"
+    },
+    {
+      "id": "review_sentence_04",
+      "label": "Processing burden",
+      "kind": "editorial_issue_severity",
+      "definition": "Clause structure or repeated sentence shapes impede comprehension of the relation expressed.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_sentence_04"
+    },
+    {
+      "id": "review_sentence_06",
+      "label": "Redundancy",
+      "kind": "editorial_issue_severity",
+      "definition": "Wording or propositions can be removed without losing a claim, qualification, relation or necessary orientation.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_sentence_06"
+    },
+    {
+      "id": "review_style_01",
+      "label": "Empty metadiscourse",
+      "kind": "editorial_issue_severity",
+      "definition": "Announcements, previews or recaps delay substance without helping the reader recover a relation.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_style_01"
+    },
+    {
+      "id": "review_style_04",
+      "label": "Inflated or vague evaluation",
+      "kind": "editorial_issue_severity",
+      "definition": "Evaluative or novelty language exceeds the support supplied by the abstract.",
+      "anchors": "0 no issue observed; 1 isolated minor issue; 2 recurring or meaningful issue; 3 substantial issue affecting central content; 4 pervasive issue obstructing the abstract. Use null if the supplied abstract cannot support the judgment.",
+      "framework_id": "review_style_04"
+    },
+    {
+      "id": "rhythm_uniformity",
+      "label": "Sentence rhythm uniformity",
+      "kind": "descriptive_style_trait",
+      "definition": "0: strongly varied sentence functions and rhythms; 2: some recurring shapes; 4: nearly every sentence follows the same rhythm or construction.",
+      "anchors": "Use integers 0,1,2,3,4 between the stated anchors. These describe style, not a quality score. Use null if the judgment cannot be supported.",
+      "framework_id": null
+    },
+    {
+      "id": "template_strength",
+      "label": "Rhetorical template strength",
+      "kind": "descriptive_style_trait",
+      "definition": "0: no recognizable stock sequence; 2: a recognizable but adapted abstract sequence; 4: rigid, interchangeable setup-method-result-importance scaffolding. A conventional sequence alone is not a quality defect.",
+      "anchors": "Use integers 0,1,2,3,4 between the stated anchors. These describe style, not a quality score. Use null if the judgment cannot be supported.",
+      "framework_id": null
+    },
+    {
+      "id": "lexical_conventionality",
+      "label": "Stock academic phrasing",
+      "kind": "descriptive_style_trait",
+      "definition": "0: concrete and task-specific phrasing throughout; 2: a mixture of specific language and conventional phrases; 4: pervasive stock or interchangeable academic phrases. Do not estimate language-model perplexity.",
+      "anchors": "Use integers 0,1,2,3,4 between the stated anchors. These describe style, not a quality score. Use null if the judgment cannot be supported.",
+      "framework_id": null
+    },
+    {
+      "id": "content_specificity",
+      "label": "Content specificity",
+      "kind": "descriptive_style_trait",
+      "definition": "0: only generic topic and value statements; 2: a named method or system with some concrete results; 4: specific design, entities, quantities and bounded findings throughout.",
+      "anchors": "Use integers 0,1,2,3,4 between the stated anchors. These describe style, not a quality score. Use null if the judgment cannot be supported.",
+      "framework_id": null
+    },
+    {
+      "id": "conceptual_density",
+      "label": "Conceptual density",
+      "kind": "descriptive_style_trait",
+      "definition": "0: few distinct recoverable ideas or relations; 2: moderate new information per clause; 4: nearly every clause advances a distinct substantive relation. Jargon alone does not raise the score.",
+      "anchors": "Use integers 0,1,2,3,4 between the stated anchors. These describe style, not a quality score. Use null if the judgment cannot be supported.",
+      "framework_id": null
+    },
+    {
+      "id": "qualification_density",
+      "label": "Qualification density",
+      "kind": "descriptive_style_trait",
+      "definition": "0: essentially unqualified assertions; 2: several explicit conditions, caveats or modal restrictions; 4: nearly every central claim is restricted or qualified. Judge amount, not adequacy.",
+      "anchors": "Use integers 0,1,2,3,4 between the stated anchors. These describe style, not a quality score. Use null if the judgment cannot be supported.",
+      "framework_id": null
+    },
+    {
+      "id": "narrator_prominence",
+      "label": "Narrator prominence",
+      "kind": "descriptive_style_trait",
+      "definition": "0: impersonal description with no authorial presence; 2: author or study actions appear several times; 4: the authors and their actions dominate the presentation. First person is neither required nor inherently problematic.",
+      "anchors": "Use integers 0,1,2,3,4 between the stated anchors. These describe style, not a quality score. Use null if the judgment cannot be supported.",
+      "framework_id": null
+    },
+    {
+      "id": "connective_explicitness",
+      "label": "Explicit discourse connections",
+      "kind": "descriptive_style_trait",
+      "definition": "0: relations between sentences are mostly left implicit; 2: some relations are explicitly signaled; 4: almost every rhetorical move is named or connected explicitly. Judge amount, not quality.",
+      "anchors": "Use integers 0,1,2,3,4 between the stated anchors. These describe style, not a quality score. Use null if the judgment cannot be supported.",
+      "framework_id": null
+    }
+  ],
+  "scope": "Twelve adapted checks from the original framework plus eight prespecified descriptive LLM ratings. These are provisional operational judgments, not validated psychometric scales."
+}
